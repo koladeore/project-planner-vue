@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner update",
+      "details": "Lorem ipsum he",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "push the  code",
+      "details": "Push the code to GitHub for Tunde to modify it",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
